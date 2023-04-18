@@ -12,5 +12,4 @@ I've tried it with Zig version 0.11.0-dev.2336+5b82b4004.
 # Command to build
 `zig build-exe typewriter.zig -lc -lX11 -lSDL2 -lSDL2_mixer`
 
-
-[typewriter.webm](https://user-images.githubusercontent.com/3685582/232262693-80b21027-deb6-4c41-836d-61cabee4d8fd.webm)
+[typewriter.webm](https://user-images.githubusercontent.com/97809837/232880773-818e0d7b-a59a-446e-b14b-18f133f5f6c2.webm)
